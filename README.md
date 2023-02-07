@@ -1,2 +1,3 @@
-# OIBGRIP
+# OIBGRIP - calculator
+
 Internship tasks
